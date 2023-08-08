@@ -5,7 +5,7 @@
 
 <div class="embed-spotify-song">
   <iframe 
-    style="border-radius:12px" src="https://open.spotify.com/embed/track/5ZuqV8q0TgfCGluxgPEkNT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"> 
+    style="border-radius:12px" src="https://open.spotify.com/embed/track/5ZuqV8q0TgfCGluxgPEkNT?utm_source=generator" width="80%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"> 
   </iframe>
 <div>
 
